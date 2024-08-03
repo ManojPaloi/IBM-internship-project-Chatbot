@@ -1,4 +1,4 @@
-# BM Internship Project: Chatbot
+# IBM Internship Project: Chatbot
 
 ## Introduction
 This project is a chatbot developed as part of my internship at BM. The chatbot is designed to interact with users, provide information, and assist with various tasks using natural language processing.
