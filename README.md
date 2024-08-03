@@ -1,5 +1,3 @@
-# BM-internship-project-Chatbot 
-
 # BM Internship Project: Chatbot
 
 ## Introduction
