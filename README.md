@@ -16,4 +16,4 @@ This project is a chatbot developed as part of my internship at BM. The chatbot 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BM-internship-project-Chatbot.git
+   git clone [https://github.com/yourusername/BM-internship-project-Chatbot.git](https://github.com/ManojPaloi/IBM-internship-project-Chatbot)
